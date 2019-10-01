@@ -25,6 +25,9 @@ Accuracy in predicting the positive review and negative reviews
 |Negative        |`77.92`            |
 
 
+## Refrences
+1. https://towardsdatascience.com/sentiment-analysis-with-deep-learning-62d4d0166ef6
+2. https://www.kaggle.com/ngyptr/lstm-sentiment-analysis-keras/notebook
 
 
 
